@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "https://gw.alicdn.com/tfs/TB1fAgIeZKfxu4jSZPfXXb3dXXa-640-1136.png",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "https://gw.alicdn.com/tfs/TB1ZwKODBr0gK0jSZFnXXbRRXXa-115-172.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		}
+	]
+}

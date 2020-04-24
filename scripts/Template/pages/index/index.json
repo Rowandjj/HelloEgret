@@ -1,0 +1,6 @@
+{
+  "defaultTitle": "Egret",
+  "usingComponents": {
+    "egret": "@tbminiapp/egret-appx-component/es/index"
+  }
+}

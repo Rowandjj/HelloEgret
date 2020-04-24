@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "enableWK": "YES",
+    "enableDSL": "YES",
+    "enableJSC": "YES",
+    "defaultTitle": "Egret",
+    "backgroundColor": "#F5F5F9",
+    "pullRefresh": false,
+    "allowsBounceVertical": true,
+    "enableSkia": "true"
+  }
+}

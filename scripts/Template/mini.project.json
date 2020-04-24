@@ -1,0 +1,8 @@
+{
+  "include": [
+    "resource/**/*.json",
+    "resource/**/*.exml",
+    "resource/**/*.js",
+    "resource/**/*.mp3"
+  ]
+}
